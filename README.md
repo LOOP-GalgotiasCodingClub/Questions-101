@@ -71,3 +71,8 @@ Q5 Let's design a data structure that behaves similar to a Map or Dictionary whe
  2. If there isn't an exact match, return the value for the preceeding key.
 Did the candidate get to an efficient solution? (e.g. O(log(n)) insert, O(log(n)) retrieval)
 ```
+
+```
+Q6 Foodkart system design problem
+```
+[Link](https://github.com/LOOP-GalgotiasCodingClub/Questions-101/blob/main/Online%20Food%20ordering%20Question.pdf)
